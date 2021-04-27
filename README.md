@@ -1,4 +1,4 @@
-# trial_sql
+# msSql_db_http
 
 Available Scripts In the project directory, you can run:
 
