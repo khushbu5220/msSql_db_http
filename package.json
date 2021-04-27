@@ -1,0 +1,26 @@
+{
+  "name": "first_sql_db",
+  "version": "1.0.0",
+  "description": "First Backend With Sql database",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "nodemon index.js"
+  },
+  "author": "Khushbu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "handlebars": "^4.7.7",
+    "handlebars-error-parser": "^1.0.9",
+    "http": "0.0.1-security",
+    "nodemon": "^2.0.7",
+    "parse": "^3.2.0",
+    "pg": "^8.6.0",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^6.6.2",
+    "tedious": "^11.0.7",
+    "url": "^0.11.0"
+  }
+}
